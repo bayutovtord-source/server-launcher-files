@@ -1,0 +1,19 @@
+{
+  "bootstrap": {
+    "version": 2.75,
+    "required": true
+  },
+  "launcher": {
+    "version": "2.75",
+    "latest": "2.75"
+  },
+  "server_packs": {
+    "my_server": {
+      "title": "Minecraft Server",
+      "ip": "92.124.145.23",
+      "port": 25565,
+      "pack_version": "1.0",
+      "download_url": "https://github.com/bayutovtord-source/server-launcher-files/releases/download/Sborka/mods.zip"
+    }
+  }
+}
