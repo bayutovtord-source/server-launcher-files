@@ -12,7 +12,10 @@
       "port": 25565
     },
     "downloads": {
-      "mods": "https://github.com/bayutovtord-source/server-launcher-files/releases/download/Sborka/mods.zip"
+      "client": "https://mojang.com",
+      "assets": "https://minecraft.net",
+      "libraries": "https://minecraft.net",
+      "mods": "https://github.com"
     }
   }
 ]
